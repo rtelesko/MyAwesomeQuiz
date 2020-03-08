@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "777420260720",
+    "firebase_url": "https://myawesomequiz-4ad12.firebaseio.com",
+    "project_id": "myawesomequiz-4ad12",
+    "storage_bucket": "myawesomequiz-4ad12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777420260720:android:cd17c1c6a26399c3",
+        "android_client_info": {
+          "package_name": "com.codinginflow.myawesomequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777420260720-p55l3kkjmml56utoqutpm5foiqkh136a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-4RI32zpVDo6IuCfcrMgate6iryPJXh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
